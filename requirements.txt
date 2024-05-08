@@ -1,4 +1,0 @@
-streamlit
-Image
-python-dotenv
-google-generativeai
